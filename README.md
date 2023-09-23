@@ -1,5 +1,6 @@
 # Tableau-Paid-Search-Campaign
-This project is representing marketing analytics project. The tools that utilized are python (cleaning &amp; wrangling) and tableau (visualization)
+This project is representing marketing analytics project. The tools that utilized are python (cleaning &amp; wrangling) and tableau (visualization).
+To follow the documentation and project's walktrough can be accessed here: [Notion link](https://muhammadfakhrurradhi.notion.site/Paid-Campaign-Analysis-85ca934003be4b94800fccf1d1520cd4?pvs=4)
 
 # Paid Campaign Analysis
 
